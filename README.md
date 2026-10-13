@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Bruno Silva just a guy who codes things and breaks them (on purpose 😅). Welcome to my GitHub! Stick around cool projects ahead 🚀</h1>
+<h1 align="center">👋 Hello World! I'm Bruno Silva. Welcome to my GitHub! Stick around cool projects ahead 🚀</h1>
 <h3 align="center">An aspiring Full Stack and AI developer from the United States and Brazil, passionate about learning and growing in tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunohenriuqegeraldoteixeiradasilva&label=Profile%20views&color=0e75b6&style=flat" alt="brunohenriuqegeraldoteixeiradasilva" /> </p>
@@ -9,7 +9,7 @@
 
 - 📄 My Resume [https://docs.google.com/document/d/1zu-pgeG7rtffcE_krYXoIAEgLnfxWHFAy-uPnjkY6pE/edit?usp=sharing](https://docs.google.com/document/d/1zu-pgeG7rtffcE_krYXoIAEgLnfxWHFAy-uPnjkY6pE/edit?usp=sharing)
 
-- ⚡ Fun fact **🇧🇷 I'm from Brazil yes, I love soccer (of course)! ⚽ 🎩I do magic tricks no, I won’t make your bugs disappear (yet).😂I think I’m funny... my code might disagree.📚I love learning new things especially when they don’t crash my IDE.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
